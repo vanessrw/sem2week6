@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sem2week6/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sem2week6/static/js/main.e73bf3d1.chunk.js",
+    "main.js.map": "/sem2week6/static/js/main.e73bf3d1.chunk.js.map",
+    "runtime-main.js": "/sem2week6/static/js/runtime-main.39dd532a.js",
+    "runtime-main.js.map": "/sem2week6/static/js/runtime-main.39dd532a.js.map",
+    "static/js/2.7bc782a0.chunk.js": "/sem2week6/static/js/2.7bc782a0.chunk.js",
+    "static/js/2.7bc782a0.chunk.js.map": "/sem2week6/static/js/2.7bc782a0.chunk.js.map",
+    "static/js/3.ef908a3a.chunk.js": "/sem2week6/static/js/3.ef908a3a.chunk.js",
+    "static/js/3.ef908a3a.chunk.js.map": "/sem2week6/static/js/3.ef908a3a.chunk.js.map",
+    "index.html": "/sem2week6/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sem2week6/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7bc782a0.chunk.js.LICENSE.txt": "/sem2week6/static/js/2.7bc782a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sem2week6/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39dd532a.js",
+    "static/js/2.7bc782a0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e73bf3d1.chunk.js"
+  ]
+}
